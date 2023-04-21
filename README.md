@@ -1,5 +1,7 @@
-A Lush Theme for Neovim.
-===
+# selene-nvim
 
-See: http://git.io/lush.nvim for more information on Lush and a helper script
-to setup your repo clone.
+![moons.jpg](assets/moons.jpg)
+
+A warm, comfy lunar theme.
+
+Made with [lush](http://git.io/lush.nvim).
